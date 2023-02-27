@@ -8,4 +8,4 @@ More simple applications will be add in the future.
 
 - nn_autoencoder.ipynb: This notebook demonstrates how to build a fully-connected autoencoder using TensorFlow and Keras. An autoencoder is a type of neural network that can be used for unsupervised learning tasks like feature extraction and dimensionality reduction.
 
-- ann_theory.ipynb: This notebook provides an overview of the theory behind fully-connected neural networks. It covers topics like activation functions, backpropagation, and weight initialization.
+- ann_theory.ipynb: This notebook provides an overview of the theory behind fully-connected neural networks. It covers topics like activation functions, Feedfoward, backpropagation, and weight initialization drawing on concepts from the book "Data Mining and Machine Learning: Fundamental Concepts and Algorithms" by Mohammed J. Zaki and Wagner Meira Jr.
